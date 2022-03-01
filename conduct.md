@@ -134,13 +134,13 @@ TODO: Write an introductory paragraph.
 
 TODO: Write an introductory paragraph.
 
-#### Acceptable Conduct
+#### Mild Violation
 
 - TODO
 - TODO
 - TODO
 
-#### Unacceptable Conduct
+#### Severe Violation
 
 - TODO
 - TODO
