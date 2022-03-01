@@ -132,7 +132,9 @@ TODO: Write an introductory paragraph.
 
 ### Infractions
 
-Infractions are the punishments handed out to those who break the rules or don't follow class conduct one or more times. The more that the class conduct is broken by the individual, the more severe the penalty is. Infractions are split upon different categories and each infraction category adds to a point total when committed. For example, if you commit three Level 1 infractions, that is just the same as committing 1 Level 2 infraction. The higher the total infraction points you have, the worse the punishment is.
+Infractions are violations of the honor code and campus policies. Depending upon the infraction one commits and past infractions, different penalties are applied to the student.
+
+Infractions are split into different categories and each infraction category adds to a point total when committed. For example, if you commit three Level 1 infractions, that is the same as committing one Level 2 infraction. The higher the total infraction points you have, the more severe of a penalty you may receive.
 
 #### Acceptable Conduct
 
