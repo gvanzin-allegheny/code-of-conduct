@@ -120,15 +120,15 @@ TODO: Write an introductory paragraph.
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Openness. (vulnerability)
+- Retain team members ideas is a form of respecting everyones thoughts and opinions.
+- Humbleness. Being humble is a form of humility it is important for everyone in a team to understand that it is not about one person.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Resentment
+- Lack of Communication. With communication within a group 
+- Ego. Software engineering is a team effort so having an big ego can disturbe the workflow of the group.
 
 ### Infractions
 
