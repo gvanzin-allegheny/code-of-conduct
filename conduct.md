@@ -151,9 +151,9 @@ TODO: Write an introductory paragraph.
 
 - Illegal – weapons, drugs, sexual harassment, fire alarm
 - Physical – assault, fighting, throwing objects, bullying
-- Defiance – defiant (three interventions), vandalism, theftreported
+- Defiance – defiant (three interventions), vandalism, theft
 
-Students who get **1** more new points will be warned orally everytime.  
+Students who get **1** more new points will be warned orally every time.  
 
 Students who have **3** and more points but below 6 points will be lowered the class grade. For example, if your grade is A right now, after getting **3** points your final grade will go down to B  
 
