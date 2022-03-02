@@ -136,7 +136,7 @@ Infractions are violations of the class conduct guide as specified by the unacce
 
 When a violation is committed, the violation is added to a point total and a penalty is given according to the total violation count received by the student.  The point total is counted throughout the semester and is not removed until the class is over for the semester.
 
-Each violation counts as 1 point.  There are three levels for total violations committed; Level 1, 2, and 3.  The higher the level, the more severe the penalty given.
+Each violation counts as 1 point.  There are three levels for total violations committed; Level 1, 2, and 3.  Level 3 consists of having 5 or more total violations while Level 2 deals with having 3 or more violations.  Level 1 is anything below 3 violations. The higher the level, the more severe the penalty given.
 
 The levels and their penalties are as follows:
 
