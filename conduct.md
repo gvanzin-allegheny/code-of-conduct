@@ -145,4 +145,3 @@ TODO: Write an introductory paragraph.
 #### Level 3 Infraction -- point 5
 
 - Students who get 5 points in total or avoid to meet with professor will be punished by deducting grades on their current assignment.
-
