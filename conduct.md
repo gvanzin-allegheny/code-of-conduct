@@ -134,25 +134,15 @@ TODO: Write an introductory paragraph.
 
 TODO: Write an introductory paragraph.
 
-#### Level 1 Categories -- point 1
+#### Level 1 Infraction -- point 1
 
-- Mild infractions. Students who get it will be warned.
+- Students who get 1 point will be recorded by professor and warned orally.
 
-#### Level 2 Categories -- point 3
+#### Level 2 Infraction -- point 3
 
-- Serious infractions. Students who get it will be warned and punished.
+- Students who get 3 points in total will be required to have a meeting with professor or TLs to talk about their infractions.
 
-#### Level 3 Categories 6 -- point 6
+#### Level 3 Infraction -- point 5
 
-- Severe infractions. Students who get it will be punished seriously.
+- Students who get 5 points in total or avoid to meet with professor will be punished by deducting grades on their current assignment.
 
-Students who get **1** more new points will be warned orally every time.
-
-Students who have **3** and more points but below 6 points will be
-
-lowered the class grade.For example, if your grade is A right now, after getting **3** points your final grade will
-go down to B
-
-Students who get **6** points will be exiled from the class. And based on what you do, you will be sent to police.
-
-### Instructor in this class has the right to decide which level of infraction do you meet based on your behavior.The points won't be cleared until the end of this semester
