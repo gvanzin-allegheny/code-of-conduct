@@ -136,25 +136,23 @@ TODO: Write an introductory paragraph.
 
 #### Level 1 Categories -- point 1
 
-- Disruption – calling out, off task, out of seat, fidgeting, restroom
-    problem, throwing object.
-- Disrespect – rolling eyes, teasing, cursing, cheating.
-- Preparedness – missing assignment/materials, planner.
+- Mild infractions. Students who get it will be warned.
 
 #### Level 2 Categories -- point 3
 
-- Disruption – outburst, excessive teasing
-- Disrespect - vulgar language, extremely defiant behavior
-- Preparedness – chronic missing work/lack of materials
+- Serious infractions. Students who get it will be warned and punished.
 
 #### Level 3 Categories 6 -- point 6
 
-- Illegal – weapons, drugs, sexual harassment, fire alarm
-- Physical – assault, fighting, throwing objects, bullying
-- Defiance – defiant (three interventions), vandalism, theft
+- Severe infractions. Students who get it will be punished seriously.
 
-Students who get **1** more new points will be warned orally every time.  
+Students who get **1** more new points will be warned orally every time.
 
-Students who have **3** and more points but below 6 points will be lowered the class grade. For example, if your grade is A right now, after getting **3** points your final grade will go down to B  
+Students who have **3** and more points but below 6 points will be  
 
-Students who get **6** points will be exiled from the class. And based on what you do, you will be sent to police.
+lowered the class grade.For example, if your grade is A right now, after getting **3** points your final grade will
+go down to B  
+
+Students who get **6** points will be exiled from the class. And based on what you do, you will be sent to police.  
+
+### Instructor in this class has the right to decide which level of infraction do you meet based on your behavior.The points won't be cleared until the end of this semester
