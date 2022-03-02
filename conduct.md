@@ -132,9 +132,13 @@ TODO: Write an introductory paragraph.
 
 ### Infractions
 
-Infractions are violations of the honor code and campus policies. Depending upon the infraction one commits and past infractions, different penalties are applied to the student.
+Infractions are violations of the class conduct guide as specified by the unacceptable conduct sections.
 
-Infractions are split into different categories and each infraction category adds to a point total when committed. For example, if you commit three Level 1 infractions, that is the same as committing one Level 2 infraction. The higher the total infraction points you have, the more severe of a penalty you may receive.
+When a violation is committed, the violation is added to a point total and a penalty is given according to the total violation count received by the student.  The point total is counted throughout the semester and is not removed until the class is over for the semester.
+
+Each violation counts as 1 point.  There are three levels for total violations committed; Level 1, 2, and 3.  The higher the level, the more severe the penalty given.
+
+The levels and their penalties are as follows:
 
 #### Acceptable Conduct
 
