@@ -132,7 +132,7 @@ TODO: Write an introductory paragraph.
 - Resentment
     To resent means to feel anger or bitterness towards someone. This will disrupt the flow of the team and can lead to poor communication. This is not respecting the group.
 - Lack of Communication.
-    Within a group, communication is key to keep the team on track. One way to practice good communiction is by giving good criticism which is a form of respect
+    Within a group, communication is key to keep the team on track. One way to practice good communication is by giving good criticism which is a form of respect
 - Ego
     Software engineering is a team effort so having an big ego can disrupt the workflow of the group and leave them feeling less important which is not respecting others.
 
