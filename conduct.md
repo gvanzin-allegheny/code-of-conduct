@@ -134,14 +134,14 @@ TODO: Write an introductory paragraph.
 
 TODO: Write an introductory paragraph.
 
-#### Level 1 Infraction -- point 1
+#### Level 1 Infraction
 
-- Students who get 1 point will be recorded by professor and warned orally.
+- Students who commit violation once the will be recorded by professor and warned orally.
 
-#### Level 2 Infraction -- point 3
+#### Level 2 Infraction
 
-- Students who get 3 points in total will be required to have a meeting with professor or TLs to talk about their infractions.
+- Students who commit violation 3 times or more in total will be required to have a meeting with professor or TLs to talk about their infractions.
 
-#### Level 3 Infraction -- point 5
+#### Level 3 Infraction
 
-- Students who get 5 points in total or avoid to meet with professor will be punished by deducting grades on their current assignment.
+- Students who commit violation 5 times in total or avoid to meet with professor will be punished by deducting grades on their current assignment.
