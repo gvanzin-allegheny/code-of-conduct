@@ -127,7 +127,7 @@ TODO: Write an introductory paragraph.
 #### Unacceptable Conduct
 
 - Resentment. To resent means to feel anger or bitterness towards someone. This will disrupt the flow of the team and can lead to miscommunication and/or using inappropriate language. This a selfish act and is not respecting the group. It causes tension increases conflicts.
-- Lack of Communication and miscommunication. Within a group, communication is key to keep the team on track. One way to practice good communication is by giving good criticism to your teammates. When reviewing their code, tell them what they should or should not do but in a respectfuly way to prevent miscommunication. Tell them what you like that they did and suggest what you think would be best.
+- Lack of Communication and miscommunication. Within a group, communication is key to keep the team on track. One way to practice good communication is by giving good criticism to your teammates. When reviewing their code, tell them what they should or should not do but in a respectful way to prevent miscommunication. Tell them what you like that they did and suggest what you think would be best.
 - Ego. Software engineering is a team effort so having an big ego can disrupt the workflow of the group and leave them feeling less important which is not respectful to others.
 
 ### Infractions
