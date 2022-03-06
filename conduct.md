@@ -122,7 +122,7 @@ TODO: Write an introductory paragraph.
 
 - Openness. It is important to be vulnerable in your group so that they understand your strengths and weaknesses within coding. Being open will help your team members know what you are capable of doing so they do not assign you something that you would not understand. This could prevent confusion and reserve time. Being open can also allow your team members to help you with problems with your code that you did not catch or understand.
 - Retaining team members ideas. This is a form of respecting everyone's thoughts and opinions. This means to keep or reserve someones idea to let your teammates know that they are heard within the group and their opinions matter.
-- Humbleness. Being humble is a form of humility it is important for everyone in a team to understand that it is not about one person but that it is about the team.
+- Encourage humility. Being humble is an important trait when working in a team. It is important for everyone in a team to understand that it is not about one person but that it is about the whole team. Realizing this can avoid conflicts because software engineering is a team effort in which everyone needs each other to properly finish a project.
 
 #### Unacceptable Conduct
 
