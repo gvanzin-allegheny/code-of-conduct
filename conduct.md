@@ -136,12 +136,12 @@ TODO: Write an introductory paragraph.
 
 #### Level 1 Infraction
 
-- Students who commit violation once the will be recorded by professor and warned orally.
+Students who commit violation once will be recorded by professor and warned orally.
 
 #### Level 2 Infraction
 
-- Students who commit violation 3 times or more in total will be required to have a meeting with professor or TLs to talk about their infractions.
+Students who commit violation 3 times or more in total will be required to have a meeting with professor to talk about their current infractions and develope a plan to avoid future ones.
 
 #### Level 3 Infraction
 
-- Students who commit violation 5 times in total or avoid to meet with professor will be punished by deducting grades on their current assignment.
+Students who commit violation 5 times in total or avoid meeting with professor after a level 2 infraction will be deducted grades on their current assignment.
