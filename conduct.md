@@ -132,13 +132,13 @@ TODO: Write an introductory paragraph.
 
 ### Infractions
 
-Infractions are violations of the class conduct guide as specified by the unacceptable conduct sections.
+Infractions are violations of the class conduct guide as specified by the unacceptable conduct sections. It is important that the conduct guide is upheld and acceptable conduct is followed in order to support a positive learning environment in the class and online.
 
-When a violation is committed, the violation is added to a point total and a penalty is given according to the total violation count received by the student.  The point total is counted throughout the semester and is not removed until the class is over for the semester.
+When a violation is committed, the student is given a penalty for the total amount of violations commited during the semester.  The only exception to this is that Honor Code violations, and the penalties associated with them, are handled and investigated by the Honor Committee.
 
-Each violation counts as 1 point.  There are three levels for total violations committed; Level 1, 2, and 3.  Level 3 consists of having 5 or more total violations while Level 2 deals with having 3 or more violations.  Level 1 is anything below 3 violations. The higher the level, the more severe the penalty given.
+If you believe that a violation was given incorrectly or unfairly, it is possible to meet with the teaching assistants and the professor of the class to discuss with them a possible appeal for the violation.
 
-The levels and their penalties are as follows:
+Depending on the total amount of violations, the penalty given is decided based on a leveled system as follows:
 
 #### Acceptable Conduct
 
