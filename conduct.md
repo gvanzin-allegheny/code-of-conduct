@@ -126,7 +126,7 @@ TODO: Write an introductory paragraph.
 
 #### Unacceptable Conduct
 
-- Resentment. Students leaving this unresovled must know that this will disrupt the flow of the team and can lead to miscommunication and/or using inappropriate language which can cause tension and increase conflicts.
+- Resentment. Students leaving this unresolved must know that this will disrupt the flow of the team and can lead to miscommunication and/or using inappropriate language which can cause tension and increase conflicts.
 - Lack of Communication and miscommunication. Students must know that within a group, communication is key to keep the team on track and without it is can cause your team to fail a project.
 - Ego. Software engineering is a team effort so having an big ego can disrupt the workflow of the group and leave them feeling less important which can cause your team to fail a project.
 
