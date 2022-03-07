@@ -134,7 +134,7 @@ TODO: Write an introductory paragraph.
 
 Infractions are violations of the class conduct guide as specified by the unacceptable conduct sections. It is important that the conduct guide is upheld and acceptable conduct is followed in order to support a positive learning environment in the class and online.
 
-When a violation is committed, the student is given a penalty for the total amount of violations commited during the semester.  The only exception to this is that Honor Code violations, and the penalties associated with them, are handled and investigated by the Honor Committee.
+When a violation is committed, the student is given a penalty for the total amount of violations committed during the semester.  The only exception to this is that Honor Code violations, and the penalties associated with them, are handled and investigated by the Honor Committee.
 
 If you believe that a violation was given incorrectly or unfairly, it is possible to meet with the teaching assistants and the professor of the class to discuss with them a possible appeal for the violation.
 
