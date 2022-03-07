@@ -121,7 +121,7 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 - Openness. Students being open will help your team members know what you are capable of doing so they do not assign you something that you would not understand in which doing this could prevent confusion and reserve time.
-- Retaining team members ideas. Students must keep or reserve someones idea to let your teammates know that they are heard within the group and their opinions matter which is a form of respectingceveryone's thoughts and opinions.
+- Retaining team members ideas. Students must keep or reserve someones idea to let your teammates know that they are heard within the group and their opinions matter which is a form of respecting everyone's thoughts and opinions.
 - Encourage humility. Students must know that it is important for everyone in a team to understand that it is not about one person but that it is about the whole team because software engineering is a team effort in which everyone needs each other to properly finish a project.
 
 #### Unacceptable Conduct
