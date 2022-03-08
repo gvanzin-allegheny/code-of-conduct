@@ -127,7 +127,7 @@ TODO: Write an introductory paragraph.
 #### Unacceptable Conduct
 
 - Students should not needlessly escalate the conflict.
-- Students should not refuse to resolve the conflict
+- Students should not refuse to resolve the conflict.
 - Students should not purposely cause conflicts.
 
 ### Infractions
