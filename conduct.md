@@ -121,7 +121,7 @@ TODO: Write an introductory paragraph.
 #### Acceptable Conduct
 
 - Students should first try to resolve conflicts amongst themselves, practicing humility, respect, and trust.
-- Students should talk out the conflict amonst their teammates.
+- Students should talk out the conflict amongst their teammates.
 - Students should address the conflict as soon as it arises.
 
 #### Unacceptable Conduct
