@@ -124,15 +124,15 @@ crucial to adhere to the codes of conduct relating to conflicts that are outline
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should first try to resolve conflicts amongst themselves, practicing humility, respect, and trust.
+- Students should talk out the conflict amongst their teammates.
+- Students should address the conflict as soon as it arises.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not needlessly escalate the conflict.
+- Students should not refuse to resolve the conflict
+- Students should not purposely cause conflicts.
 
 ### Infractions
 
