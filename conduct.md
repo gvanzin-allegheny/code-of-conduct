@@ -131,7 +131,7 @@ crucial to adhere to the codes of conduct relating to conflicts that are outline
 #### Unacceptable Conduct
 
 - Students should not needlessly escalate the conflict.
-- Students should not refuse to resolve the conflict
+- Students should not refuse to resolve the conflict.
 - Students should not purposely cause conflicts.
 
 ### Infractions
@@ -150,7 +150,7 @@ Students who commit one violation will be recorded by the professor and warned o
 
 #### Level 2 Infraction
 
-Students who commit violations 3 times or more in total will be required to have a meeting with the professor to talk about their current infractions and develop a plan to avoid future ones.
+Students who commit violations 3 times or more will be required to have a meeting with the professor to talk about their current infractions and develop a plan to avoid future ones.
 
 #### Level 3 Infraction
 
