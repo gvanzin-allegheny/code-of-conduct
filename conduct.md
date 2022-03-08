@@ -124,28 +124,34 @@ crucial to adhere to the codes of conduct relating to conflicts that are outline
 
 #### Acceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should first try to resolve conflicts amongst themselves, practicing humility, respect, and trust.
+- Students should talk out the conflict amongst their teammates.
+- Students should address the conflict as soon as it arises.
 
 #### Unacceptable Conduct
 
-- TODO
-- TODO
-- TODO
+- Students should not needlessly escalate the conflict.
+- Students should not refuse to resolve the conflict.
+- Students should not purposely cause conflicts.
 
 ### Infractions
 
-TODO: Write an introductory paragraph.
+Infractions are violations of the class conduct guide as specified by the unacceptable conduct sections. It is important that the conduct guide is upheld and acceptable conduct is followed in order to support a positive learning environment in the class and online.
 
-#### Acceptable Conduct
+When a violation is committed, the student is given a penalty for the total amount of violations committed during the semester.  The only exception to this is that Honor Code violations, and the penalties associated with them, are handled and investigated by the Honor Committee.
 
-- TODO
-- TODO
-- TODO
+If you believe that a violation was reported incorrectly or unfairly, it is possible to meet with the professor teaching the class to discuss a possible appeal for the violation.  After discussion, the professor will make the final decision about the violation.
 
-#### Unacceptable Conduct
+Depending on the total amount of violations, the penalty given is decided based on a leveled system as follows:
 
-- TODO
-- TODO
-- TODO
+#### Level 1 Infraction
+
+Students who commit one violation will be recorded by the professor and warned orally.
+
+#### Level 2 Infraction
+
+Students who commit violations 3 times or more will be required to have a meeting with the professor to talk about their current infractions and develop a plan to avoid future ones.
+
+#### Level 3 Infraction
+
+Students who commit violations 5 times in total or avoid meeting with the professor after a level 2 infraction will have points deducted from their grade on the current assignment.

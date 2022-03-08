@@ -15,7 +15,8 @@
         "gitignore",
         "github",
         "gatorgrader",
-        "cmpsc"
+        "cmpsc",
+        "lukel"
     ],
     "ignorePaths": [
         ".github/**"
